@@ -1,0 +1,23 @@
+html{
+    background-color: #5a5959;
+    color: aliceblue;
+}
+
+body {
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+}
+
+.separador{
+    padding: 4px;
+}
+.problema {
+    text-align: justify;
+}
+.oirientador{
+    margin: 0 25%;
+    width: 700px;
+}
